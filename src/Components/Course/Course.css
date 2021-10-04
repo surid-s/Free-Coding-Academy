@@ -5,7 +5,11 @@
 }
 
 .course-container img {
-    height: 200px;
+    height: 180px;
     width: 300px;
     margin-right: 5px;
+}
+
+.course-container h3 {
+    color: blue;
 }

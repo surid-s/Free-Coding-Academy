@@ -1,9 +1,10 @@
 import React from 'react';
+import About from '../About/About';
 
 const Contact = () => {
     return (
         <div>
-            <h2>Contact us</h2>
+            <About></About>
         </div>
     );
 };

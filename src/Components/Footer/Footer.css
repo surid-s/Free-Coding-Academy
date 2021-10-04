@@ -1,0 +1,22 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(43, 32, 100);
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+.footer-name {
+    text-align: center;
+    font-size: small;
+    margin-top: 20px;
+    color: white;
+}
+
+.my-name {
+    color: rgb(155, 155, 192);
+}

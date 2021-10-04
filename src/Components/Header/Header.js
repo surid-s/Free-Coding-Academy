@@ -18,7 +18,7 @@ const Header = () => {
                 <Link to="/home">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/services">Services</Link>
-                <Link to="/courses">Courses</Link>
+                <Link to="/allCourse">Our Courses</Link>
                 <Link to="/contact">Contact</Link>
                 <Button variant="success" placeholder="search here">{element} Search</Button>
             </div>
