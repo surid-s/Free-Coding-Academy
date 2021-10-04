@@ -12,7 +12,7 @@ const Trainers = () => {
     return (
         <div>
             <div className="mb-3">
-                <h3>Our Trainers </h3>
+                <h3 className="ms-3">Our Trainers </h3>
             </div>
             <div className="trainee-contain">
 

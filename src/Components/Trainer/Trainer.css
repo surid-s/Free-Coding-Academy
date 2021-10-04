@@ -1,8 +1,10 @@
 .trainers {
     display: flex;
+    margin-left: 35px;
 }
 
 .trainers img {
-    height: 100px;
+    height: 80px;
     width: 100px;
+    border-radius: 25px;
 }

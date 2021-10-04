@@ -11,12 +11,17 @@ const Courses = () => {
             .then(data => setCourses(data))
     }, [])
     return (
-        <div className="courses-container">
-            {/* <h1>Our Online Courses</h1> */}
-            {
-                courses.map(course => <Course key={course.id} course={course}></Course>)
-            }
-            <Link to="/allCourse">View More..</Link>
+        <div>
+            <div className="courses-container">
+                {/* <h1>Our Online Courses</h1> */}
+                {
+                    courses.map(course => <Course key={course.id} course={course}></Course>)
+                }
+
+            </div>
+            <div className="link">
+                <Link to="/allCourse">View More..</Link>
+            </div>
         </div>
     );
 };

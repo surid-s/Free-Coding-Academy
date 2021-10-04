@@ -1,12 +1,14 @@
 .courses-container {
-    border: 2px solid rgb(226, 203, 203);
+    /* border: 2px solid rgb(226, 203, 203); */
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 5px;
     margin-top: 10px;
 }
 
-.courses-container a {
+.link a {
+    justify-content: center;
+    text-align: center;
     text-decoration: none;
     font-weight: bold;
     padding: 15px;
