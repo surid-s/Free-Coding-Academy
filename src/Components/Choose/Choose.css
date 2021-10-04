@@ -1,0 +1,14 @@
+.title {
+    color: rgb(136, 10, 31);
+}
+
+.choose-div {
+    display: flex;
+    margin: 20px;
+    margin-top: 60px;
+}
+
+.choose-div img {
+    height: 500px;
+    width: 500px;
+}

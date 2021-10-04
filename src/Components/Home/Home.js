@@ -1,4 +1,5 @@
 import React from 'react';
+import Choose from '../Choose/Choose';
 import Contact from '../Contact/Contact';
 import Courses from '../Courses/Courses';
 import FirstContent from '../FirstContent/FirstContent';
@@ -12,7 +13,9 @@ const Home = () => {
             <FirstContent></FirstContent>
             <Courses></Courses>
             <Trainers></Trainers>
+            <Choose></Choose>
             <Contact></Contact>
+
         </div>
     );
 };
