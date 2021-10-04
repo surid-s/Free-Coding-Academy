@@ -1,7 +1,7 @@
 # Free Coding Academy
 
 This project is created with react. <br/>
-Live link [Free Coding Academy](https://react-assignment-1-surid.netlify.app/).
+Live link [Free Coding Academy](https://surid-react-assignment-2-router.netlify.app/).
 
 ![Project Image](https://c4.wallpaperflare.com/wallpaper/111/745/193/reactjs-javascript-programming-programming-language-hd-wallpaper-preview.jpg)
 
