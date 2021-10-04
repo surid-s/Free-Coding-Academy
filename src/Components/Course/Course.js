@@ -1,4 +1,6 @@
+
 import React from 'react';
+import { Button } from 'react-bootstrap';
 import './Course.css'
 
 const Course = (props) => {
@@ -12,6 +14,8 @@ const Course = (props) => {
                 <h5>{description}</h5>
                 <h5>${fee}</h5>
                 <small>{rating}</small>
+                <br />
+                <Button className="mt-2" variant="success">Enroll Now</Button>
             </div>
 
         </div>

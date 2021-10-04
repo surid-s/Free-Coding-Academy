@@ -2,14 +2,15 @@ import React from 'react';
 import './Trainer.css';
 
 const Trainer = (props) => {
-    // console.log(props)
-    const { iName, img } = props.trainer;
+    console.log(props)
+    const { iName, iImg } = props.trainer;
     return (
-        <div>
-
+        <div className="trainers">
+            <div>
+                <img src={iImg} alt="" />
+            </div>
             <div>
                 <h3>{iName}</h3>
-                {img}
             </div>
         </div>
 

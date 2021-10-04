@@ -16,7 +16,7 @@ const Courses = () => {
             {
                 courses.map(course => <Course key={course.id} course={course}></Course>)
             }
-            <Link to="/allCourses">View More..</Link>
+            <Link to="/allCourse">View More..</Link>
         </div>
     );
 };
