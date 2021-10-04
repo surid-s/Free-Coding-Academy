@@ -7,9 +7,10 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Components/Home/Home';
 import About from './Components/About/About';
 import Services from './Components/Services/Services';
-import Courses from './Components/Courses/Courses';
+// import Courses from './Components/Courses/Courses';
 import NotFound from './Components/NotFound/NotFound';
 import Contact from './Components/Contact/Contact'
+import MyCourse from './Components/MyCourse/MyCourse';
 function App() {
   return (
     <div >
@@ -29,8 +30,8 @@ function App() {
           <Route path="/contact">
             <Contact></Contact>
           </Route>
-          <Route path="/courses">
-            <Courses></Courses>
+          <Route path="/allCourse">
+            <MyCourse></MyCourse>
           </Route>
           <Route path="*/">
             <NotFound></NotFound>

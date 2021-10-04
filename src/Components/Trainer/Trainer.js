@@ -2,7 +2,7 @@ import React from 'react';
 import './Trainer.css';
 
 const Trainer = (props) => {
-    console.log(props)
+    // console.log(props)
     const { iName, img } = props.trainer;
     return (
         <div>

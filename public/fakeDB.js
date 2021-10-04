@@ -39,6 +39,35 @@
 //         iImg: "https://www.gannett-cdn.com/-mm-/21f1da166afba536868230065c2e232b4468833d/c=0-111-2582-3554/local/-/media/2017/02/02/TennGroup/Knoxville/636216460628537958-Glenn-Jacobs.JPG",
 //         fee: 3500
 //     },
+//     {
+//         id: 5,
+//         img: "https://i.ytimg.com/vi/5LM43thAjhI/maxresdefault.jpg",
+//         title: "Photo Editing",
+//         description: "Your complete guide to editing beautiful photos in Adobe Lightroom",
+//         rating: 4.7,
+//         iName: "John Snow",
+//         iImg: "https://www.gannett-cdn.com/-mm-/21f1da166afba536868230065c2e232b4468833d/c=0-111-2582-3554/local/-/media/2017/02/02/TennGroup/Knoxville/636216460628537958-Glenn-Jacobs.JPG",
+//         fee: 3000
+//     },
+//     {
+//         id: 6,
+//         img: "https://cdn.shopify.com/compass/uploads/Social_v2.png",
+//         description: "Learn how to build a successful eCommerce business using Shopify",
+//         rating: 4.9,
+//         iName: "Joss Butler",
+//         iImg: "https://www.gannett-cdn.com/-mm-/21f1da166afba536868230065c2e232b4468833d/c=0-111-2582-3554/local/-/media/2017/02/02/TennGroup/Knoxville/636216460628537958-Glenn-Jacobs.JPG",
+//         fee: 4500
+//     },
+//     {
+//         id: 7,
+//         img: "https://www.isitwp.com/wp-content/uploads/2020/01/createonlinecoursesite.png",
+//         title: "WordPress Plugin Development",
+//         description: "Everything you need to become a hirable WordPress Developer",
+//         rating: 5,
+//         iName: "Joss Butler",
+//         iImg: "https://www.gannett-cdn.com/-mm-/21f1da166afba536868230065c2e232b4468833d/c=0-111-2582-3554/local/-/media/2017/02/02/TennGroup/Knoxville/636216460628537958-Glenn-Jacobs.JPG",
+//         fee: 6000
+//     }
 
 
 

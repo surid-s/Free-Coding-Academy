@@ -1,0 +1,16 @@
+.course-container {
+    border: 1px solid lightgray;
+    display: flex;
+    margin-bottom: 20px;
+    /* grid-template-columns: repeat(3, 1fr); */
+}
+
+.course-container img {
+    height: 180px;
+    width: 300px;
+    margin-right: 5px;
+}
+
+.course-container h3 {
+    color: blue;
+}
