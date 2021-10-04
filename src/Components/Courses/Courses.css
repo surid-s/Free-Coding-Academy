@@ -1,0 +1,5 @@
+.courses-container {
+    border: 2px solid rgb(226, 203, 203);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
